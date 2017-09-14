@@ -1,5 +1,6 @@
 (ns tinkerpopbuilder-poc.core
-  (:import (org.apache.tinkerpop.gremlin.tinkergraph.structure TinkerFactory IoCore))
+  (:import (org.apache.tinkerpop.gremlin.tinkergraph.structure TinkerFactory)
+           (org.apache.tinkerpop.gremlin.structure.io IoCore))
   (:gen-class))
 
 (defn -main
