@@ -1,32 +1,16 @@
 # tinkerpopbuilder-poc
 
-FIXME: description
+This is a short little Clojure program that demonstrates using TinkerPop and Gremlin to do basic graph manipulation.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone from `https://github.com/michaeljmcd/tinkerpopbuilder-poc` and run `lein uberjar`.
 
 ## Usage
 
-FIXME: explanation
+Run:
 
-    $ java -jar tinkerpopbuilder-poc-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ java -jar tinkerpopbuilder-poc-0.1.0-standalone.jar 
 
 ## License
 
